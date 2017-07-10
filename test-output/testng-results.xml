@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2025" started-at="2017-07-10T07:42:42Z" finished-at="2017-07-10T07:42:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2025" started-at="2017-07-10T07:42:42Z" finished-at="2017-07-10T07:42:44Z">
+      <class name="com.webservice.GetAllProducts">
+        <test-method status="PASS" signature="getAllProductsTest()[pri:0, instance:com.webservice.GetAllProducts@1efbd816]" name="getAllProductsTest" duration-ms="1991" started-at="2017-07-10T17:42:42Z" finished-at="2017-07-10T17:42:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllProductsTest -->
+      </class> <!-- com.webservice.GetAllProducts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
