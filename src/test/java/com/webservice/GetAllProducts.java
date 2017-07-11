@@ -54,7 +54,7 @@ public class GetAllProducts {
 	 }
 	 
 	Market getMarket = data.getMarket();
-	getMarket.getBanner();
+	System.out.println(getMarket.getBanner()); 
 		
 	}
 
